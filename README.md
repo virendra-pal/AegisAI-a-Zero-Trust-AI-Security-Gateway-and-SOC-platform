@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AegisAI: Zero-Trust Runtime Defense & SOC Platform for LLMs & Autonomous Agents
 
 > **Submission for Hackathon: "Cybersecurity in AI — Securing Systems That Learn"**  
@@ -131,3 +132,6 @@ cyberSecurityinAI/
 2. **Side-by-Side Verifiability**: Gives judges visual, unmistakable proof of the difference between an unprotected target system and a secured one.
 3. **Intellectual Honesty**: Demonstrates empirical metrics, a measured False Positive Rate, and an analyzed bypass case rather than claiming an impossible "100% impenetrable" solution.
 4. **Enterprise Operations Focus**: Provides the audit logs, CSV exports, and SIEM integration that actual security operations centers (SOCs) require to deploy AI agents safely.
+=======
+# AegisAI-a-Zero-Trust-AI-Security-Gateway-and-SOC-platform
+>>>>>>> 474b1705814866fc44653f66b09ce20fbedc7c8d
